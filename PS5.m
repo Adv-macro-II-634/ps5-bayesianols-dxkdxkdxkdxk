@@ -124,3 +124,5 @@ hold on
 line([theta(7) theta(7)],ylim,'Color','r','LineWidth',1)
 title('\sigma_{\epsilon}^2')
 hold off
+
+%submit
