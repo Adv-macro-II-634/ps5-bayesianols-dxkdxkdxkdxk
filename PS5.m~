@@ -108,14 +108,14 @@ subplot(2,4,5)
 histfit(Theta(:,5),100,'kernel')
 hold on
 line([theta(5) theta(5)],ylim,'Color','r','LineWidth',1)
-title('\beta_{Black}')
+title('\beta_{black}')
 hold off
 
 subplot(2,4,6)
 histfit(Theta(:,6),100,'kernel')
 hold on
 line([theta(6) theta(6)],ylim,'Color','r','LineWidth',1)
-title('\beta_{South}')
+title('\beta_{south}')
 hold off
 
 subplot(2,4,7)
